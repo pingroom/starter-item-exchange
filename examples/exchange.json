@@ -1,0 +1,21 @@
+{
+  "exchangeId": "desk-swap",
+  "title": "Desk item exchange",
+  "items": [
+    {
+      "id": "book",
+      "label": "Notebook",
+      "ownerKey": "alex"
+    },
+    {
+      "id": "pen",
+      "label": "Blue pen",
+      "ownerKey": "blair"
+    },
+    {
+      "id": "tray",
+      "label": "Desk tray",
+      "ownerKey": "casey"
+    }
+  ]
+}
